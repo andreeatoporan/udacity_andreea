@@ -1,0 +1,26 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+Hello Udacity,
+
+I am so proud to be part of this program.
+First of all, i've learned to understand what is behind every html page (lot of work and imagination). Also, i've learned to be able to write (translate) a html page with links, images and text.I can't wait for learning more :)
+
+What has been easy?
+Well, it hasn't been to easy but it helped a lot the videos from the beginning and the good structure of the pages content. I understood very well everything. I wish to find in the next lessons more videos.
+
+What has been difficult?
+It hasn't been too difficult yet. 
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+I've tried to learn as much i could from every lesson and from Slack and i've tried to apply my knowledges to the projects.
+
+Kind regards,
+Andreea Toporans
